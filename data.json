@@ -1131,19 +1131,6 @@
         "freetogame_profile_url": "https://www.freetogame.com/astral-heroes"
     },
     {
-        "id": 118,
-        "title": "Starbreak",
-        "thumbnail": "https://www.freetogame.com/g/118/thumbnail.jpg",
-        "short_description": "A Roguelike MMORPG with MetroidVania-style platformer \r\ngameplay! Castlevania and Metroid fans will \r\nlove this game! ",
-        "game_url": "https://www.freetogame.com/open/starbreak",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Crunchy Games",
-        "developer": "Crunchy Games",
-        "release_date": "2016-05-10",
-        "freetogame_profile_url": "https://www.freetogame.com/starbreak"
-    },
-    {
         "id": 119,
         "title": "Fantasy Tales Online",
         "thumbnail": "https://www.freetogame.com/g/119/thumbnail.jpg",
@@ -1493,19 +1480,6 @@
         "developer": "Doctor Entertainment",
         "release_date": "2015-01-29",
         "freetogame_profile_url": "https://www.freetogame.com/gear-up"
-    },
-    {
-        "id": 181,
-        "title": "8BitMMO",
-        "thumbnail": "https://www.freetogame.com/g/181/thumbnail.jpg",
-        "short_description": "A free to play retro­-style 2D MMO and a giant construction sandbox! ",
-        "game_url": "https://www.freetogame.com/open/8bitmmo",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Archive Entertainment ",
-        "developer": "Archive Entertainment ",
-        "release_date": "2015-01-26",
-        "freetogame_profile_url": "https://www.freetogame.com/8bitmmo"
     },
     {
         "id": 182,
@@ -2235,19 +2209,7 @@
         "release_date": "2008-11-25",
         "freetogame_profile_url": "https://www.freetogame.com/aion"
     },
-    {
-        "id": 256,
-        "title": "Realm of the Mad God",
-        "thumbnail": "https://www.freetogame.com/g/256/thumbnail.jpg",
-        "short_description": "A fast paced 2d free to play MMO shooter game with a retro 8-bit style.",
-        "game_url": "https://www.freetogame.com/open/realm-mad-god",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Kabam",
-        "developer": "Wild Shadow Studios",
-        "release_date": "2012-02-21",
-        "freetogame_profile_url": "https://www.freetogame.com/realm-mad-god"
-    },
+
     {
         "id": 257,
         "title": "Star Wars: The Old Republic",
@@ -3185,19 +3147,6 @@
         "freetogame_profile_url": "https://www.freetogame.com/therian-saga"
     },
     {
-        "id": 433,
-        "title": "RuneScape",
-        "thumbnail": "https://www.freetogame.com/g/433/thumbnail.jpg",
-        "short_description": "A popular 3D browser MMORPG boasting a huge player base and 15 years of content.",
-        "game_url": "https://www.freetogame.com/open/runescape",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Jagex",
-        "developer": "Jagex",
-        "release_date": "2001-01-04",
-        "freetogame_profile_url": "https://www.freetogame.com/runescape"
-    },
-    {
         "id": 434,
         "title": "Will To Live",
         "thumbnail": "https://www.freetogame.com/g/434/thumbnail.jpg",
@@ -3823,32 +3772,6 @@
         "freetogame_profile_url": "https://www.freetogame.com/starbreak"
     },
     {
-        "id": 163,
-        "title": "Card Hunter",
-        "thumbnail": "https://www.freetogame.com/g/163/thumbnail.jpg",
-        "short_description": "A free online collectible card game which blends together role-playing, card play and tactical combat. ",
-        "game_url": "https://www.freetogame.com/open/card-hunter",
-        "genre": "Card Game",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Blue Manchu",
-        "developer": "Blue Manchu",
-        "release_date": "2015-07-14",
-        "freetogame_profile_url": "https://www.freetogame.com/card-hunter"
-    },
-    {
-        "id": 179,
-        "title": "Transformice",
-        "thumbnail": "https://www.freetogame.com/g/179/thumbnail.jpg",
-        "short_description": "A cute little free-to-play MMO platformer.",
-        "game_url": "https://www.freetogame.com/open/transformice",
-        "genre": "Fantasy",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Atelier 801",
-        "developer": "Atelier 801",
-        "release_date": "2015-01-30",
-        "freetogame_profile_url": "https://www.freetogame.com/transformice"
-    },
-    {
         "id": 181,
         "title": "8BitMMO",
         "thumbnail": "https://www.freetogame.com/g/181/thumbnail.jpg",
@@ -3874,19 +3797,7 @@
         "release_date": "2014-11-05",
         "freetogame_profile_url": "https://www.freetogame.com/eldevin"
     },
-    {
-        "id": 249,
-        "title": "RPG MO",
-        "thumbnail": "https://www.freetogame.com/g/249/thumbnail.jpg",
-        "short_description": "A nostalgic free MMORPG reminiscent of old-school RPG's like Ultima and Runescape.",
-        "game_url": "https://www.freetogame.com/open/rpg-mo",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Marxnet",
-        "developer": "Marxnet",
-        "release_date": "2012-07-18",
-        "freetogame_profile_url": "https://www.freetogame.com/rpg-mo"
-    },
+
     {
         "id": 255,
         "title": "Stronghold Kingdoms",
@@ -4497,19 +4408,6 @@
         "developer": "Blue Byte",
         "release_date": "2012-09-11",
         "freetogame_profile_url": "https://www.freetogame.com/the-settlers-online"
-    },
-    {
-        "id": 421,
-        "title": "Therian Saga",
-        "thumbnail": "https://www.freetogame.com/g/421/thumbnail.jpg",
-        "short_description": "A browser-based sandbox MMORPG with a complex crafting system.",
-        "game_url": "https://www.freetogame.com/open/therian-saga",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Gameforge",
-        "developer": "Virtys",
-        "release_date": "2017-03-27",
-        "freetogame_profile_url": "https://www.freetogame.com/therian-saga"
     },
     {
         "id": 422,
