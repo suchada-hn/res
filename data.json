@@ -1351,19 +1351,7 @@
         "release_date": "2015-07-16",
         "freetogame_profile_url": "https://www.freetogame.com/skyforge"
     },
-    {
-        "id": 163,
-        "title": "Card Hunter",
-        "thumbnail": "https://www.freetogame.com/g/163/thumbnail.jpg",
-        "short_description": "A free online collectible card game which blends together role-playing, card play and tactical combat. ",
-        "game_url": "https://www.freetogame.com/open/card-hunter",
-        "genre": "Card Game",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Blue Manchu",
-        "developer": "Blue Manchu",
-        "release_date": "2015-07-14",
-        "freetogame_profile_url": "https://www.freetogame.com/card-hunter"
-    },
+
     {
         "id": 165,
         "title": "Echo of Soul",
@@ -1456,19 +1444,6 @@
         "freetogame_profile_url": "https://www.freetogame.com/dungeon-fighter-online"
     },
     {
-        "id": 179,
-        "title": "Transformice",
-        "thumbnail": "https://www.freetogame.com/g/179/thumbnail.jpg",
-        "short_description": "A cute little free-to-play MMO platformer.",
-        "game_url": "https://www.freetogame.com/open/transformice",
-        "genre": "Fantasy",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Atelier 801",
-        "developer": "Atelier 801",
-        "release_date": "2015-01-30",
-        "freetogame_profile_url": "https://www.freetogame.com/transformice"
-    },
-    {
         "id": 180,
         "title": "Gear Up",
         "thumbnail": "https://www.freetogame.com/g/180/thumbnail.jpg",
@@ -1506,19 +1481,6 @@
         "developer": "Shumkov Dmitriy",
         "release_date": "2014-11-05",
         "freetogame_profile_url": "https://www.freetogame.com/blockade-3d"
-    },
-    {
-        "id": 185,
-        "title": "Eldevin",
-        "thumbnail": "https://www.freetogame.com/g/185/thumbnail.jpg",
-        "short_description": "A indie story-driven Free to Play MMORPG.",
-        "game_url": "https://www.freetogame.com/open/eldevin",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Hunted Cow Studios",
-        "developer": "Hunted Cow Studios",
-        "release_date": "2014-11-05",
-        "freetogame_profile_url": "https://www.freetogame.com/eldevin"
     },
     {
         "id": 186,
@@ -2169,19 +2131,6 @@
         "developer": "NHN Games (Acquired by Webzen)",
         "release_date": "2012-09-13",
         "freetogame_profile_url": "https://www.freetogame.com/c9"
-    },
-    {
-        "id": 249,
-        "title": "RPG MO",
-        "thumbnail": "https://www.freetogame.com/g/249/thumbnail.jpg",
-        "short_description": "A nostalgic free MMORPG reminiscent of old-school RPG's like Ultima and Runescape.",
-        "game_url": "https://www.freetogame.com/open/rpg-mo",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Marxnet",
-        "developer": "Marxnet",
-        "release_date": "2012-07-18",
-        "freetogame_profile_url": "https://www.freetogame.com/rpg-mo"
     },
     {
         "id": 251,
@@ -3134,19 +3083,6 @@
         "freetogame_profile_url": "https://www.freetogame.com/tibia"
     },
     {
-        "id": 421,
-        "title": "Therian Saga",
-        "thumbnail": "https://www.freetogame.com/g/421/thumbnail.jpg",
-        "short_description": "A browser-based sandbox MMORPG with a complex crafting system.",
-        "game_url": "https://www.freetogame.com/open/therian-saga",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Gameforge",
-        "developer": "Virtys",
-        "release_date": "2017-03-27",
-        "freetogame_profile_url": "https://www.freetogame.com/therian-saga"
-    },
-    {
         "id": 434,
         "title": "Will To Live",
         "thumbnail": "https://www.freetogame.com/g/434/thumbnail.jpg",
@@ -3757,33 +3693,6 @@
         "release_date": "2021-04-15",
         "freetogame_profile_url": "https://www.freetogame.com/drifters-loot-the-galaxy"
     },
-
-    {
-        "id": 118,
-        "title": "Starbreak",
-        "thumbnail": "https://www.freetogame.com/g/118/thumbnail.jpg",
-        "short_description": "A Roguelike MMORPG with MetroidVania-style platformer \r\ngameplay! Castlevania and Metroid fans will \r\nlove this game! ",
-        "game_url": "https://www.freetogame.com/open/starbreak",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Crunchy Games",
-        "developer": "Crunchy Games",
-        "release_date": "2016-05-10",
-        "freetogame_profile_url": "https://www.freetogame.com/starbreak"
-    },
-    {
-        "id": 181,
-        "title": "8BitMMO",
-        "thumbnail": "https://www.freetogame.com/g/181/thumbnail.jpg",
-        "short_description": "A free to play retro­-style 2D MMO and a giant construction sandbox! ",
-        "game_url": "https://www.freetogame.com/open/8bitmmo",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Archive Entertainment ",
-        "developer": "Archive Entertainment ",
-        "release_date": "2015-01-26",
-        "freetogame_profile_url": "https://www.freetogame.com/8bitmmo"
-    },
     {
         "id": 185,
         "title": "Eldevin",
@@ -3810,19 +3719,6 @@
         "developer": "FireFly Studios",
         "release_date": "2012-02-28",
         "freetogame_profile_url": "https://www.freetogame.com/stronghold-kingdoms"
-    },
-    {
-        "id": 256,
-        "title": "Realm of the Mad God",
-        "thumbnail": "https://www.freetogame.com/g/256/thumbnail.jpg",
-        "short_description": "A fast paced 2d free to play MMO shooter game with a retro 8-bit style.",
-        "game_url": "https://www.freetogame.com/open/realm-mad-god",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Kabam",
-        "developer": "Wild Shadow Studios",
-        "release_date": "2012-02-21",
-        "freetogame_profile_url": "https://www.freetogame.com/realm-mad-god"
     },
     {
         "id": 340,
@@ -4551,19 +4447,6 @@
         "developer": "Sulake Corporation",
         "release_date": "2001-09-26",
         "freetogame_profile_url": "https://www.freetogame.com/habbo"
-    },
-    {
-        "id": 433,
-        "title": "RuneScape",
-        "thumbnail": "https://www.freetogame.com/g/433/thumbnail.jpg",
-        "short_description": "A popular 3D browser MMORPG boasting a huge player base and 15 years of content.",
-        "game_url": "https://www.freetogame.com/open/runescape",
-        "genre": "MMORPG",
-        "platform": "PC (Windows), Web Browser",
-        "publisher": "Jagex",
-        "developer": "Jagex",
-        "release_date": "2001-01-04",
-        "freetogame_profile_url": "https://www.freetogame.com/runescape"
     },
     {
         "id": 440,
