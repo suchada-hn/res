@@ -7,7 +7,7 @@
       "facilities": ["ที่จอดรถ"],
       "priceLevel": 1,
       "isOpen": "Y",
-      "highlightText": "<strong>ร้านทุกอย่าง</strong><img src=\"javascript:alert('YOU HAVE BEEN HACKED')\" onError=\"javascript:alert('YOU HAVE BEEN HACKED')\" /> โต๊ะ ตู้ เตียง",
+      "highlightText": "<strong>ร้านทุกอย่าง</strong> โต๊ะ ตู้ เตียง",
       "recommendedItems": ["แจกัน", "จานชาม", "เก้าอี้สามขา"],
       "addressProvinceName": "กรุงเทพมหานคร",
       "addressDistrictName": "เขตธนบุรี"
