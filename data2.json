@@ -16,7 +16,7 @@
 {
       "id": 2,
       "title": "Wiput Shop",
-      "platform": "แฟชั่น",
+      "platform": "สินค้าทั่วไป",
       "genre": "ร้านขายเสื้อผ้า / เครื่องประดับ / สินค้าแฟชั่น",
       "thumbnail": "https://images.unsplash.com/photo-1589578228447-e1a4e481c6c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80",
       "facilities": ["ที่จอดรถ", "สามารถนำสัตว์เลี้ยงเข้าได้"],
